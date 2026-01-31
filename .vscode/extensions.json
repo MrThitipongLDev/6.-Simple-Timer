@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "mikestead.dotenv",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.javascriptsnippets",
+        "cardinal90.multi-cursor-case-preserve",
+        "postman.postman-for-vscode",
+        "esbenp.prettier-vscode",
+        "burkeholland.simple-react-snippets",
+        "bradlc.vscode-tailwindcss",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
